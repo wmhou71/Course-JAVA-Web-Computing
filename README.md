@@ -1,5 +1,4 @@
 # Course-JAVA-Web-Computing
-Homework Title:
   
   
 Course Name: Couputer Programming and Application  
